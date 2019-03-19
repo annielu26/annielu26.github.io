@@ -1,6 +1,13 @@
 body{
     font-family: 'Noto Sans TC', sans-serif;
 }
+
 h1{
 	 font-family: 'Noto Sans TC', sans-serif;
+	 text-transform: none;
+}
+.bg-primary {
+	background-color:#426182!important;
+	background-image:url("background-color: #426182;
+background-image: url("https://www.transparenttextures.com/patterns/inspiration-geometry.png");
 }
