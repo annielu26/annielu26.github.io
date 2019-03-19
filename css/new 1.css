@@ -10,3 +10,9 @@ h1{
 	background-color:#426182!important;
 	background-image: url("../img/inspiration-geometry.png");
 }
+.text-primary {
+  color: #426182!important;
+}
+a {
+  color:#426182 ;
+}
