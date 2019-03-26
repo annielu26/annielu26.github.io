@@ -12,7 +12,14 @@ h1{
 }
 .text-primary {
   color: #426182!important;
+  font-size:80%
 }
 a {
   color:#426182 ;
 }
+
+
+h2 .mb-5 span{
+	color: #426182!important
+}
+
