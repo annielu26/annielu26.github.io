@@ -3,7 +3,7 @@ body{
 }
 
 h1{
-	 font-family: 'Noto Sans TC', Cursive ;
+	 font-family: 'Noto Sans TC', sans-serif ;
 	 text-transform: none;
 }
 .bg-primary {
@@ -12,7 +12,8 @@ h1{
 }
 .text-primary {
   color: #426182!important;
-  font-size:80%
+  font-family: 'Noto Sans TC', sans-serif ;
+  font-size:90%
 }
 a {
   color:#426182 ;
@@ -20,6 +21,6 @@ a {
 
 
 h2 .mb-5 span{
-	color: #426182!important
+  color: #426182!important
 }
 
