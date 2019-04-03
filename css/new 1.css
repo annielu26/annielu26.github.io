@@ -1,9 +1,9 @@
 body{
-    font-family: 'Noto Sans TC', sans-serif ;
+    font-family: 'Josefin Sans', sans-serif;
 }
 
 h1{
-	 font-family: 'Noto Sans TC', Cursive ;
+	 font-family: 'Josefin Sans', sans-serif;
 	 text-transform: none;
 }
 .bg-primary {
@@ -11,8 +11,9 @@ h1{
 	background-image: url("../img/inspiration-geometry.png");
 }
 .text-primary {
+  font-family: 'Josefin Sans', sans-serif
   color: #426182!important;
-  font-size:80%
+  font-size:95%
 }
 a {
   color:#426182 ;
