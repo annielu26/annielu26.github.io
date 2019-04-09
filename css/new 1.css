@@ -31,3 +31,6 @@ h2 .mb-5 span{
 	font-family: 'Noto Sans TC', 'Josefin Sans',  sans-serif;
 }
 
+a.card-link.collapsed {
+	color: #000000!important;
+}
