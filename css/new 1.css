@@ -5,10 +5,13 @@ body{
 }
 
 h1{
-	 font-family: 'Noto Sans TC', 'Josefin Sans',  sans-serif;
+	 font-family:'Josefin Sans', sans-serif;
 	 text-transform: none;
 }
 
+h1.mb-0{
+	 font-family: 'Noto Sans TC', sans-serif;
+}
 .bg-primary {
 	background-color:#426182!important;
 	background-image: url("../img/inspiration-geometry.png");
