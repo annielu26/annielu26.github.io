@@ -22,7 +22,7 @@ h1.mb-0{
   font-size:90%
 }
 a {
-  color: #FFFFFF!important;
+  color: #FFFFF!important;
 }
 
 
@@ -33,4 +33,8 @@ h2 .mb-5 span{
 
 a.card-link.collapsed {
 	color: #000000!important;
+}
+
+a.q{
+	color:#426182!important;
 }
