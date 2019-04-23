@@ -5,7 +5,7 @@ body{
 }
 
 h1{
-	 font-family:'Josefin Sans', sans-serif;
+	 font-family:'Noto Sans TC', sans-serif;
 	 text-transform: none;
 }
 
@@ -17,7 +17,7 @@ h1.mb-0{
 	background-image: url("../img/inspiration-geometry.png");
 }
 .text-primary {
-  font-family: 'Noto Sans TC', 'Josefin Sans', sans-serif;
+  font-family: 'Noto Sans TC', sans-serif;
   color: #426182!important;
   font-size:90%
 }
@@ -35,6 +35,9 @@ a.card-link.collapsed {
 	color: #000000!important;
 }
 
-a.q{
+a.q {
 	color:#426182!important;
 }
+
+
+Josefin Sans
