@@ -8,7 +8,11 @@ h1{
 	 font-family:'Josefin Sans', sans-serif;
 	 text-transform: none;
 }
-
+.text-primary-p{
+	font-family:'Josefin Sans', sans-serif;
+	color: #426182!important;
+  font-size:90%
+}
 h1.mb-0{
 	 font-family: 'Noto Sans TC', sans-serif;
 }
@@ -17,7 +21,7 @@ h1.mb-0{
 	background-image: url("../img/inspiration-geometry.png");
 }
 .text-primary {
-  font-family: 'Noto Sans TC', 'Josefin Sans', sans-serif;
+  font-family: 'Noto Sans TC', sans-serif;
   color: #426182!important;
   font-size:90%
 }
@@ -25,14 +29,24 @@ a {
   color:  #FFFFF!important;
 }
 
-
+a.k{
+	color:#426182!important;
+}
 p {
 	font-family: 'Noto Sans TC', sans-serif;
+	font-size:110%
+}
+p.lead.mb-5{
+	font-family: 'Noto Sans TC', sans-serif;
+	font-size:110%
 }
 div.subheading.mb-3{
 	font-family: 'Noto Sans TC', sans-serif;
 }
-
+span.k{
+	font-family: 'Josefin Sans',sans-serif;
+	font-size:80%
+}
 h2 .mb-5 span{
 	color: #426182!important;
 	font-family: 'Noto Sans TC',sans-serif;
@@ -49,7 +63,11 @@ a.q{
 h3,h4,h5,h6{
 font-family: 'Noto Sans TC',sans-serif;
 }
-	
+
+p.cd{
+	font-family:'Josefin Sans', sans-serif;
+	font-size:120%
+}	
 dev-icons .list-inline-item i:hover{
    color:#426182!important;
 }
