@@ -16,6 +16,9 @@ h1{
 h1.mb-0{
 	 font-family: 'Noto Sans TC', sans-serif;
 }
+a:active, a:focus, a:hover {
+	color: #426182!;
+}
 .bg-primary {
 	background-color:#426182!important;
 	background-image: url("../img/inspiration-geometry.png");
@@ -28,7 +31,6 @@ h1.mb-0{
 a {
   color:  #FFFFF!important;
 }
-
 a.k{
 	color:#426182!important;
 }
